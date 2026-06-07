@@ -41,10 +41,4 @@ End-to-end **Data Science & ML project** with interactive Streamlit dashboard
 
 ---
 
-## 📈 GitHub Stats
-
-![Vyshali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyshali22&show_icons=true&theme=tokyonight)
-
----
-
 ⭐ *Open to fresher opportunities — feel free to connect!*
