@@ -32,6 +32,7 @@ Full-stack web application built with **Java 17, Spring Boot, MySQL & JWT Authen
 - REST APIs for complete inventory CRUD operations
 - JWT-based secure authentication
 - HTML/CSS/JS frontend
+- Automated low-stock alert system with MVC architecture
 
 ### 📊 [Sales Demand Forecasting](https://github.com/Vyshali22/sales-demand-forecasting)
 End-to-end **Data Science & ML project** with interactive Streamlit dashboard
@@ -41,4 +42,4 @@ End-to-end **Data Science & ML project** with interactive Streamlit dashboard
 
 ---
 
-⭐ *Open to fresher opportunities — feel free to connect!*
+⚡ Available immediately for full-time roles in Software Development or Data Analytics — let's connect!
