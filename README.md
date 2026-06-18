@@ -33,13 +33,14 @@ Full-stack web application built with **Java 17, Spring Boot, MySQL & JWT Authen
 - JWT-based secure authentication
 - HTML/CSS/JS frontend
 - Automated low-stock alert system with MVC architecture
-- R² = 0.9884 accuracy achieved through model comparison and feature engineering
 
 ### 📊 [Sales Demand Forecasting](https://github.com/Vyshali22/sales-demand-forecasting)
 End-to-end **Data Science & ML project** with interactive Streamlit dashboard
 - Analyzed 1000+ sales records with EDA
 - Random Forest model with **98.84% accuracy (R²=0.9884)**
 - Live Revenue Predictor dashboard
+- Deployed interactive dashboard with dynamic filters for real-time business insights
+- Random Forest model achieved R² = 0.9884 (98.84% accuracy) through model comparison
 
 ---
 
