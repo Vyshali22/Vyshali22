@@ -1,6 +1,6 @@
 # Hi there, I'm Vyshali! 👋
 
-🎓 **IT Graduate** | 💼 **IT Graduate actively seeking full-time roles** | 📍 Hyderabad, India
+🎓 **IT Graduate** | 💼 **Actively seeking full-time roles** | 📍 Hyderabad, India
 
 ---
 
