@@ -1,6 +1,6 @@
 # Hi there, I'm Vyshali! 👋
 
-🎓 **IT Graduate** | 💼 **Fresher actively looking for opportunities** | 📍 Hyderabad, India
+🎓 **IT Graduate** | 💼 **IT Graduate actively seeking full-time roles** | 📍 Hyderabad, India
 
 ---
 
