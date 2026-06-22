@@ -45,3 +45,4 @@ End-to-end **Data Science & ML project** with interactive Streamlit dashboard
 ---
 
 ⚡ Available immediately for full-time roles in Software Development or Data Analytics — let's connect!
+
